@@ -17,7 +17,7 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 (2024년 한국정보처리학회 학술대회논문집, 제 31권 2호) 
 ![image](https://github.com/user-attachments/assets/2a41bcdb-3ddd-4f7e-ab28-2db7b9d0215d?)
 
-<br>
+<br/>
 
 
 
@@ -30,7 +30,7 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 | 개발(BE) | 강서연 | 🖥️  |
 
 
-### 📅일정
+## 📅 일정
 
 > #### 24.04.01(월) ~ 22.10.31(금) (총 28주)
 - 기획 및 설계 : 04.01 ~ 06.30 (12주)
@@ -45,25 +45,28 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
   - 배포 및 인프라 구축
 
 
-## 🛠Tech Stack
+## 🛠 Tech Stack
 
 ### [FrontEnd](https://github.com/RunningDuk/UniRun-FE)
 <img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?stype=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"> 
+<br>
 
 ### [BackEnd](https://github.com/RunningDuk/UniRun-FE)
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-social&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white">  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-social&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS S3-69A31?style=for-the-social&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-social&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/ Docker-2496ED?style=for-the-social&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?stype=flat&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?stype=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?stype=flat&logo=MariaDB&logoColor=white"/>
+<br/>
 
 ### [Blockchain](https://github.com/RunningDuk/UniRun-Blockchain)
 <img src="https://img.shields.io/badge/Solana-9945FF?stype=flat&logo=Solana&logoColor=white"/> <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?stype=flat&logo=OpenZeppelin&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?stype=flat&logo=Web3.js&logoColor=white"/>
+<br/>
 
 ### Others
 <img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ Notion-000000?style=for-the-social&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-social&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/ Google Meet-00897B?style=for-the-social&logo=googlemeet&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?stype=flat&logo=Slack&logoColor=white"/>
 
 <br/>
 
-### 🎯대표 기능
+## 🎯대표 기능
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/b1168c2f-b16a-4783-9ae5-a591493a81ae" /><br>
  - 회원 관리
     - 회원가입, 로그인, 로그아웃, 회원탈퇴를 진행한다.
@@ -79,13 +82,19 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
  - NFT 구매 
     - RapiD 토큰을 사용하여 NFT를 구매한다.
   
-
+## 아키텍처 
 ![image](https://github.com/user-attachments/assets/5e6f04c5-0491-4289-bbf3-7f82aa65ee03)
+<br/>
+
+## ERD 
 ![image](https://github.com/user-attachments/assets/77d5234a-84df-4c6d-8255-80c4c2cbb925)
+<br/>
 
+## API
+[API 명세서](https://jiminh00.notion.site/15cb78edc863806599a8c0687df4d4ae?v=15cb78edc86381978d2c000c57b11882&pvs=74)
+<br/>
 
-
-### UI 화면
+## UI 화면
 |홈 UI|캘린더 UI|
 |------|---|
 |![image](https://github.com/user-attachments/assets/15cf9169-4a5d-4fe2-ae56-6496d6ffb27d)|![image](https://github.com/user-attachments/assets/0f6d4399-7d97-43a8-bfbf-5e318803741b)|
@@ -97,14 +106,18 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 |NFT 구매 UI|NFT 소장 UI|
 |------|---|
 |![image](https://github.com/user-attachments/assets/710bf8d7-f77c-49f3-9180-2751916642ab)|![image](https://github.com/user-attachments/assets/467973d5-ff82-40cb-8ac5-a74b7d30b1cb)|
+<br/>
 
-### UniRun 플랫폼 자체 발행 RapiD(RD) 토큰
-![image](https://github.com/user-attachments/assets/6fff47fe-89bc-4d35-a171-e995c65c9f9e)
-
+## 블록체인 
+### 토큰 발행 흐름도 
 ![image](https://github.com/user-attachments/assets/30fd5788-7fdd-445d-9640-e71a88be08df)
+<br/>
+ERC20 컨트랙트는 Solidity로 작성 후 네트워크에 배포되어 초기 공급량이 설정되고 소유자 지갑에 Mint 작업으로 발행된다. 발행된 토큰은 네트워크에 기록되어 유통 및 전송이 가능하며, 서비스에 활용된다.
+### 토큰 발행 결과
+![image](https://github.com/user-attachments/assets/6fff47fe-89bc-4d35-a171-e995c65c9f9e)
+<br/>
 
-
-### ✒프로젝트 회고
+## ✒프로젝트 회고
 
 #### 류주아
 교내 러닝 크루 활동을 하면서 대학생을 타겟으로 한 러닝앱의 필요성을 지속적으로 느껴왔습니다. 따라서 매번 러닝 일정을 생성하고 참여자를 조사해야 하는 비효율적인 과정을 체계적으로 관리하고 명확하게 일정을 확인할 수 있는 솔루션이 적용된 앱을 개발하고자 했습니다. 이번 프로젝트를 통해서 유저의 입장에서 끊임없이 고민하며 사용자 중심의 서비스를 설계해보는 좋은 경험을 할 수 있었고 블록체인, iOS와 같은 기술SDS을 다뤄보면서 개발자 역량을 키울 수 있었습니다. 이번 경험을 기반으로 사용자 경험을 극대화하는 서비스를 만드는 개발자로 성장하고자 합니다
