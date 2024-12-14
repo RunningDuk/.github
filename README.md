@@ -78,6 +78,12 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
     - 러닝 거리 5.5km 달성 시, UniRun 자체 토큰 RapiD를 제공한다. 
  - NFT 구매 
     - RapiD 토큰을 사용하여 NFT를 구매한다.
+  
+
+![image](https://github.com/user-attachments/assets/5e6f04c5-0491-4289-bbf3-7f82aa65ee03)
+![image](https://github.com/user-attachments/assets/77d5234a-84df-4c6d-8255-80c4c2cbb925)
+
+
 
 ### UI 화면
 |홈 UI|캘린더 UI|
@@ -95,6 +101,7 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 ### UniRun 플랫폼 자체 발행 RapiD(RD) 토큰
 ![image](https://github.com/user-attachments/assets/6fff47fe-89bc-4d35-a171-e995c65c9f9e)
 
+![image](https://github.com/user-attachments/assets/30fd5788-7fdd-445d-9640-e71a88be08df)
 
 
 ### ✒프로젝트 회고
