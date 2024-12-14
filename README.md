@@ -12,15 +12,20 @@
 
 ### 🎯서비스 대상
 
+| 개발(FE) | 류주아 | 🔦 프론트엔드 리드, 회원가입, 홈, 마이페이지, 러닝 기록, 러닝 일정, nft 화면 UI 구현 및 서버 연동 |
+| 개발(FE) | 김하늘 | 📱 UI 디자인, 캘린더 화면 UI 구현 및 서버 연동|
+| 개발(BE) | 황지민 | 💻 백엔드 리드,  |
+| 개발(BE) | 강서연 | 🖥️  |
 
 
 ### 📅일정
 
-> #### 22.08.22(월) ~ 22.10.07(금) (총 7주)
-- 기획 및 설계 : 08.22 ~ 09.08 (2.5주)
-  - 기획 : 프로젝트 아이디어 논의, 주제 구체화, 기술 스택 선정
-  - 설계 : 기능 요구 명세서 작성, ERD, 와이어프레임, 프로젝트 구조 설계, REST API 설계
-- 개발 : 09.08 ~ 09.30 (3.5주)
+> #### 24.04.01(월) ~ 22.10.31(금) (총 28주)
+- 기획 및 설계 : 04.01 ~ 06.30 (12주)
+  - 기획 : 프로젝트 아이디어 논의, 주제 구체화, UI 디자인
+  - 설계 : 기술 스택 선정, 기능 요구 명세서 작성, ERD, 와이어프레임, 프로젝트 구조 설계, REST API 설계
+- 개발 : 07.08 ~ 10.31 (16주)
+  - UI 구현
   - API 구현
   - 프로젝트 주요 기능 구현
   - 스마트 컨트랙트 작성
@@ -42,11 +47,3 @@
 <img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ Notion-000000?style=for-the-social&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-social&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/ Google Meet-00897B?style=for-the-social&logo=googlemeet&logoColor=white">
 
 <br/>
-
-## 🖐️Members
-
-|       | 류주아     | 김하늘     | 황지민     | 강서연     |
-|-------|:---------:|:---------:|:---------:|:---------:|
-| Profile    |  <img src="https://avatars.githubusercontent.com/u/133302526?v=4" width="100px;" alt="bourgeois46"/>  |  <img src="https://avatars.githubusercontent.com/u/133302526?v=4" width="100px;" alt="bourgeois46"/>   |  <img src="https://avatars.githubusercontent.com/u/133302526?v=4" width="100px;" alt="bourgeois46"/>   |  <img src="https://avatars.githubusercontent.com/u/133302526?v=4" width="100px;" alt="bourgeois46"/>  |
-| Github ID   | [@bourgeois46](https://github.com/bourgeois46) | [@bourgeois46](https://github.com/bourgeois46) | [@bourgeois46](https://github.com/bourgeois46) |[@bourgeois46](https://github.com/bourgeois46) | 
-| Role  | Frontend Lead | Frontend | Backend Lead | Backend |
