@@ -26,7 +26,7 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 | --- | --- | --- |
 | 개발(FE) | 류주아 | 🔦 프론트엔드 리드, 회원가입, 홈, 마이페이지, 러닝 기록, 러닝 일정, nft 화면 UI 구현 및 서버 연동, goolge map api 연동|
 | 개발(FE) | 김하늘 | 📱 UI 디자인, 캘린더 화면 UI 구현 및 서버 연동|
-| 개발(BE) | 황지민 | 💻 백엔드 리드,  |
+| 개발(BE) | 황지민 | 💻 백엔드 리드, 시스템 설계, API 설계, DB 설계, 서버 개발 (러닝, 블록체인, 캘린더), 블록체인 스마트 컨트랙트 작성 및 배포|
 | 개발(BE) | 강서연 | 🖥️  |
 
 
@@ -51,12 +51,15 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 <img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?stype=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"> 
 
 ### [BackEnd](https://github.com/RunningDuk/UniRun-FE)
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-social&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-social&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-social&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-sociak&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-social&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=for-the-&logo=amazonecs&logoColor=white"> <img src="https://img.shields.io/badge/AWS Fargate-FF9900?style=for-the-&logo=awsfargate&logoColor=white"> <img src="https://img.shields.io/badge/AWS S3-69A31?style=for-the-social&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-social&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AWS ElastiCache-C925D1?style=for-the-social&logo=amazonelasticache&logoColor=white"> <img src="https://img.shields.io/badge/AWS Secretes Manager-DD344C?style=for-the-social&logo=awssecretsmanager&logoColor=white"> <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff"> <img src="https://img.shields.io/badge/ Docker-2496ED?style=for-the-social&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-social&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white">  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-social&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS S3-69A31?style=for-the-social&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-social&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/ Docker-2496ED?style=for-the-social&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?stype=flat&logo=NGINX&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?stype=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?stype=flat&logo=MariaDB&logoColor=white"/>
 
 ### [Blockchain](https://github.com/RunningDuk/UniRun-Blockchain)
+<img src="https://img.shields.io/badge/Solana-9945FF?stype=flat&logo=Solana&logoColor=white"/> <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?stype=flat&logo=OpenZeppelin&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?stype=flat&logo=Web3.js&logoColor=white"/>
 
 ### Others
-<img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ Notion-000000?style=for-the-social&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-social&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/ Google Meet-00897B?style=for-the-social&logo=googlemeet&logoColor=white">
+<img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ Notion-000000?style=for-the-social&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-social&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/ Google Meet-00897B?style=for-the-social&logo=googlemeet&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?stype=flat&logo=Slack&logoColor=white"/>
 
 <br/>
 
@@ -74,8 +77,7 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
  - 토큰 보상
     - 러닝 거리 5.5km 달성 시, UniRun 자체 토큰 RapiD를 제공한다. 
  - NFT 구매 
-    - RapiD 토큰을 사용하여 NFT를 구매한다. 
-
+    - RapiD 토큰을 사용하여 NFT를 구매한다.
 
 ### UI 화면
 |홈 UI|캘린더 UI|
