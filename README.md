@@ -48,8 +48,7 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 ## 🛠Tech Stack
 
 ### [FrontEnd](https://github.com/RunningDuk/UniRun-FE)
-<img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black"> 
-<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?stype=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white"> 
 
 ### [BackEnd](https://github.com/RunningDuk/UniRun-FE)
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-social&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-social&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-social&logo=JSON Web Tokens&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-sociak&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-social&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=for-the-&logo=amazonecs&logoColor=white"> <img src="https://img.shields.io/badge/AWS Fargate-FF9900?style=for-the-&logo=awsfargate&logoColor=white"> <img src="https://img.shields.io/badge/AWS S3-69A31?style=for-the-social&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-social&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AWS ElastiCache-C925D1?style=for-the-social&logo=amazonelasticache&logoColor=white"> <img src="https://img.shields.io/badge/AWS Secretes Manager-DD344C?style=for-the-social&logo=awssecretsmanager&logoColor=white"> <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff"> <img src="https://img.shields.io/badge/ Docker-2496ED?style=for-the-social&logo=docker&logoColor=white">
@@ -94,5 +93,17 @@ UniRun은 대학생 러너들에게 러닝에 대한 새로운 동기와 가치�
 ### UniRun 플랫폼 자체 발행 RapiD(RD) 토큰
 ![image](https://github.com/user-attachments/assets/6fff47fe-89bc-4d35-a171-e995c65c9f9e)
 
+
+
+### ✒프로젝트 회고
+
+#### 류주아
+교내 러닝 크루 활동을 하면서 대학생을 타겟으로 한 러닝앱의 필요성을 지속적으로 느껴왔습니다. 따라서 매번 러닝 일정을 생성하고 참여자를 조사해야 하는 비효율적인 과정을 체계적으로 관리하고 명확하게 일정을 확인할 수 있는 솔루션이 적용된 앱을 개발하고자 했습니다. 이번 프로젝트를 통해서 유저의 입장에서 끊임없이 고민하며 사용자 중심의 서비스를 설계해보는 좋은 경험을 할 수 있었고 블록체인, iOS와 같은 기술SDS을 다뤄보면서 개발자 역량을 키울 수 있었습니다. 이번 경험을 기반으로 사용자 경험을 극대화하는 서비스를 만드는 개발자로 성장하고자 합니다
+#### 김하늘
+이번 프로젝트를 통해 기획, 디자인, 개발, 논문, 특허 출원까지 모든 단계를 직접 경험하며 아이디어를 구체화하는 과정이 예상보다 어렵다는 것을 깨달았지만 그만큼 많은 것을 배울 수 있었습니다. 저는 프론트엔드 개발자로 참여하면서도 디자인 작업에 함께하며 React Native와 TypeScript를 학습하고 개발을 병행했습니다. 이 과정에서 일정에 어려움이 있었지만, 팀원들과 함께 문제를 해결했고 프로젝트를 성공적으로 마무리할 수 있었습니다. 이번 경험은 제게 큰 성장의 발판이 되었고, 팀워크의 중요성을 깊이 느끼게 한 소중한 시간이었습니다. 앞으로도 사용자에게 실질적인 가치를 제공하는 서비스 디자인을 만들어 나가기 위해 꾸준히 발전하고 싶습니다. 
+#### 황지민
+시스템 설계부터 서버 개발, 배포까지 전 과정을 직접 경험하며 개발자로서의 역량을 강화할 수 있었습니다. 특히, 다중 서버 설계에서 고려해야 할 점들을 배우며, 아키텍처 설계의 중요성을 체감할 수 있었습니다. 또한, 블록체인을 처음 접하며 낯선 용어들로 어려움을 겪었던 시간이 기억에 남습니다. 짧은 시간 안에 새로운 기술을 습득하고 실제 개발에 적용하는 과정이 쉽지 않았지만, 문제 해결 능력과 학습 방법 등을 배울 수 있었습니다. 이번 경험을 기반으로 기술적 도전에 주저하지 않는 개발자가 되고자 합니다. 
+#### 강서연
+이번에 처음으로 장기 프로젝트에 참여하면서 설계부터 개발까지 전 과정을 단계별로 경험할 수 있었습니다. 백엔드 개발자로서 데이터 처리 로직을 설계하고 사용자 인증 시스템을 구현하기 위해 스프링 부트를 학습하는 시간이 필요해 개발 일정에 차질이 생기기도 했습니다. 하지만 끝까지 포기하지 않고 프로젝트를 완수했다는 점에서 큰 성취감을 얻었습니다. 이번 경험을 통해 실무에서 활용 가능한 다양한 기술이 있음을 알게 되었고 , 앞으로 이러한 기술들을 더욱 깊이 있게 공부하여 백엔드 개발 역량을 강화하고자 합니다.
 
 
